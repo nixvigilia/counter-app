@@ -1,5 +1,7 @@
-# React JS - React Tutorial by Mosh
-https://codewithmosh.com/
+# React JS - Counter App
+
+https://codewithmosh.com/ tutorial by Mosh
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
